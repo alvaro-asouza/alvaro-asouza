@@ -3,6 +3,11 @@
 <h1 align="center">Hi 👋, I'm Álvaro</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
+<!--divisor-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
 - 🌱 I’m currently learning **React and Node**
 
  <details>
