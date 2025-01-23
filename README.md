@@ -1,7 +1,5 @@
 ## Welcome to my profile 😁
 
-![Snake animation](https://github.com/alvaro-asouza/alvaro-asouza/blob/output/github-contribution-grid-snake.svg)
-
 <h1 align="center">Hi 👋, I'm Álvaro</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
