@@ -42,21 +42,16 @@
 
  ![snake gif](https://github.com/alvaro-asouza/alvaro-asouza/blob/output/github-contribution-grid-snake.svg)
 
-
 <div align="center">
   <h2>🛠️ Technologies & Tools</h2>
   <div style="display: inline-block"><br>
-    <img alt="Bootstrap" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="border-radius: 10%;">
-    <img alt="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" style="border-radius: 10%;">
-    <img alt="HTML5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" style="border-radius: 10%;">
-    <img alt="JavaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="border-radius: 10%;">
-    <img alt="SQL Server" height="50" width="50" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="border-radius: 10%;">
-    <img alt="NodeJS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" style="border-radius: 10%;">
-    <img alt="PostgreSQL" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" style="border-radius: 10%;">
-    <img alt="React" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="border-radius: 10%;">
-    <img alt="Sass" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="border-radius: 10%;">
-    <img alt="TypeScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="border-radius: 10%;">
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,git,php,mysql,nodejs,react,sass,typescript,bootstrap,jest" />
+  </a>
+    </p>
   </div>
 </div>
+
 
 
