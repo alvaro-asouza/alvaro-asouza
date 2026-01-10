@@ -23,9 +23,19 @@
 
 <br>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=10b981&height=200&section=header&text=Álvaro%20Alves&fontSize=70&animation=fadeIn&fontAlignY=35" />
+</p>
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaro-asouza&show_icons=true&theme=dark&icon_color=10b981&text_color=ffffff&bg_color=0a0f0d&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-asouza&layout=compact&langs_count=6&theme=dark&icon_color=10b981&text_color=ffffff&bg_color=0a0f0d&hide_border=true" alt="Top Langs"/>
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=alvaro-asouza&show_icons=true&theme=transparent&icon_color=10b981&title_color=10b981&text_color=ffffff&bg_color=0a0f0d&hide_border=true&include_all_commits=true&count_private=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-asouza&layout=donut&theme=transparent&icon_color=10b981&title_color=10b981&text_color=ffffff&bg_color=0a0f0d&hide_border=true" />
+  <img width="48%" src="https://github-profile-trophy.vercel.app/?username=alvaro-asouza&theme=dracula&no-frame=true&column=3&margin-w=15&short_title=true" />
 </div>
 
 <br>
