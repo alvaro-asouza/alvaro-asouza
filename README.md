@@ -1,55 +1,58 @@
-## Welcome to my profile 😁
+# Olá, eu sou o Álvaro Alves 👋
 
-<h1 align="center">Hi 👋, I'm Álvaro</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+### Fullstack Software Engineer | Big Data & AI Specialist
+*Localização:* Porto, Portugal 🇵🇹
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+Engenheiro de Software Fullstack com sólida base académica em *Análise e Desenvolvimento de Sistemas* e um *MBA em Big Data e Inteligência Competitiva*. Especialista em unir o desenvolvimento de aplicações escaláveis à inteligência de dados para criar soluções que geram valor real ao negócio.
 
-<br>
+---
 
-- 🌱 I’m currently learning **React, Node and Astro**
+### 🚀 O meu Diferencial
+- *Data-Driven Mindset:* Experiência consolidada no *Grupo Pão de Açúcar*, atuando na intersecção entre engenharia de software, QA e análise de dados crítica.
+- *IA & Automação:* Especialista em integração de *IA Generativa, **Prompt Engineering* e scripts em *Python* para otimizar o ciclo de vida de desenvolvimento (SDLC) e automatizar processos complexos.
+- *Qualidade & Performance:* Foco rigoroso em *Clean Code*, escalabilidade e performance de sistemas (Frontend e Backend).
 
-<details>
-<summary>👨‍💻 More about me</summary>
+---
 
-- I'm a budding front-end developer. My passion is transforming ideas into interactive and visually appealing interfaces. I'm looking for my first opportunity in the area.
-- I have a degree in Systems Analysis and Development. I love turning designs into clean, functional code. My playground includes HTML5, CSS3, JavaScript, React and TypeScript.
-- I'm diving into the world of React and exploring the Context API to create dynamic and scalable web applications.
-- I create layouts that adapt perfectly to different devices, ensuring a consistent and responsive experience for users.
+### 🛠 Tech Stack
 
-</details>
+| Categoria | Tecnologias |
+| :--- | :--- |
+| *Frontend* | React.js, Astro, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS |
+| *Backend* | Node.js, Express, PHP, Prisma ORM, Swagger (API Doc) |
+| *Dados & BI* | SQL (MySQL, PostgreSQL), Teradata, Power BI, Big Data Analytics |
+| *Ferramentas* | Git, GitHub, Python (Automação), Pipefy, Metodologias Ágeis |
 
-<br>
+---
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alvaro-asouza&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&icon_color=10b981&text_color=ffffff&bg_color=0a0f0d" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaro-asouza&layout=compact&langs_count=6&theme=highcontrast&icon_color=10b981&text_color=ffffff&bg_color=0a0f0d" alt="Top Langs"/>
-</div>
+### 📂 Projetos de Destaque
 
-<br>
+#### 🎬 [Movieflix API](https://github.com/alvaro-asouza/movieflix-api)
+Interface de backend de alta performance desenvolvida integralmente com *TypeScript* e Node.js. Foco em segurança de tipos, arquitetura escalável e rapidez de resposta para consumo de dados em larga escala.
 
-<div align="center">
-  <h2>🛠️ Technologies & Tools</h2>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,git,nodejs,react,sass,typescript,tailwind,bootstrap,figma,vscode" />
-  </a>
-</div>
+#### 🎫 [Help Desk System](https://github.com/alvaro-asouza/app_help_desk)
+Sistema Fullstack completo para gestão de tickets de suporte. Implementação de *CRUD robusto*, sistema de autenticação seguro e níveis de acesso diferenciados.
+Stack: PHP, MySQL, Bootstrap.
 
-<br>
+#### 💰 [Costs Finance](https://github.com/alvaro-asouza/costs-finance)
+Aplicação Web para controlo financeiro pessoal. Foco em *UX/UI Intuitiva, gestão de estado complexa com **React Hooks* e lógica de cálculo em tempo real.
+Stack: React.js, JavaScript, CSS3.
 
-<div align="center">
-  <h2>🐍 My Contributions</h2>
-  <img src="https://raw.githubusercontent.com/alvaro-asouza/alvaro-asouza/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+---
 
-<br>
+### 🎓 Formação & Certificações
+- *MBA em Big Data e Inteligência Competitiva* – Faculdade Descomplica
+- *CST em Análise e Desenvolvimento de Sistemas* – Universidade Mogi das Cruzes
+- *IA Generativa para Desenvolvedores* – LinkedIn Learning / Microsoft
 
-<div align="center"> 
-  <h2>Let's connect!</h2>
-  <a href="mailto:seuemail@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/seuperfil" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/seuperfil" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://discord.gg/seuconvite" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-</div>
+---
+
+### 📫 Vamos Conversar?
+- *LinkedIn:* [linkedin.com/in/alvaro-alvess](https://www.linkedin.com/in/alvaro-alvess)
+- *Email:* alvaroalves928@gmail.com
+- *WhatsApp:* [+351 931 460 814](https://wa.me/351931460814)
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alvaro-asouza&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
+</p>
