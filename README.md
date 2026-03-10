@@ -53,6 +53,35 @@ Stack: React.js, JavaScript, CSS3.
 - *WhatsApp:* [+351 931 460 814](https://wa.me/351931460814)
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alvaro-asouza&show_icons=true&theme=radical" alt="Estatísticas do GitHub" />
-</p>
+## 📊 GitHub Dashboard
+<br/>
+<br/>
+
+<div align="center">
+
+  <!-- Linguagens como barras dinâmicas - atualiza automaticamente com cada push -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alvaro-asouza&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alvaro-asouza&theme=radical" />
+
+</div>
+
+<div align="center">
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alvaro-asouza&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alvaro-asouza&theme=radical&utcOffset=0" />
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alvaro-asouza/alvaro-asouza/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alvaro-asouza/alvaro-asouza/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake animation" src="https://raw.githubusercontent.com/alvaro-asouza/alvaro-asouza/output/github-contribution-grid-snake.svg"/>
+  </picture>
+
+</div>
